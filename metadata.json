@@ -1,0 +1,16 @@
+{
+  "name": "Fullscreen To Workspace",
+  "description": "Moves windows to a new workspace when they enter fullscreen (F11) and returns them to the original workspace when they leave fullscreen or are closed. Maximizing with the titlebar button is ignored. Based on Maximize To Workspace With History by AmanCode22.",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "url": "https://github.com/keltanas/fullscreen-to-workspace",
+  "uuid": "fullscreen-to-workspace@keltanas",
+  "author": "keltanas",
+  "version": 1
+}
